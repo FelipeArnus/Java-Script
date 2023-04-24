@@ -20,6 +20,7 @@ function calc(){
     switch(op){
         case 1:
             msg.innerHTML += `<p> ${n1} + ${n2} = <strong>$(n1 + n2)</strong></p>`
+            //mandar mnsg via html(o ${} é usado como "fstring")
             break;
         case 2:
             msg.innerHTML += `<p> ${n1} - ${n2} = <strong>$(n1 - n2)</strong></p>`
