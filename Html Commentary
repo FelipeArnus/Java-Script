@@ -1,0 +1,20 @@
+    <html></html> //abre a main
+
+    <title>Fiap</title> //Titulo da pagina
+    
+    <body></body> //formato do texto 
+    
+    <font face = "copperplate"></font>  //muda fonte
+    
+    <p style="color: red"></p> //muda cor
+    
+    <font size = 30>GurenLagan</font> //muda tamanho da fonte para especifico
+    
+    <img src = "humus.jpg" alt="erro"> //coloca imagem no bagulho 
+
+    <button onclick="alert('Slurm-Invasion')">GUDÃO</button> //Cria um botão que fala 'Slurm-Invasion'
+
+    <div id="main"> //lugar para digitar
+        <input type="button" class="cor1" value="" onmouseover="trocar('#993399')"> // cria botão que escreve-se coisas dentro
+        
+    </div>
