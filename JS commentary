@@ -1,3 +1,5 @@
-let x; -> declara x
+let x; // declara x
 
-msg
+x = confirm("Texto avulso"); //alerta com mensagem
+
+x = 
