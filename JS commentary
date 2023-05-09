@@ -1,5 +1,17 @@
+DECLARAÇÃO
 let x; //declara x
 
-x = confirm("Texto avulso"); //alerta com mensagem
 
-x = prompt("escreva algo: "); //alerta com caixa de texto que é atribuido a "x"
+PROMPT
+x = confirm("Texto avulso"); //alerta BOOLEANO
+
+x = prompt("escreva algo: "); //alerta com caixa de texto que é atribuido a "x" em string
+
+x = Number(prompt("escreva numero: ")); mesmo só que com integral
+
+
+HTML CONNECTION
+
+x = document.getElementById("id1") //pega um valor de HTML registrado no id "id1" 
+
+ msg.innerHTML = '<h2>Processadi o resultado</h2>' 
