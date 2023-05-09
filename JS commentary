@@ -1,5 +1,5 @@
-let x; // declara x
+let x; //declara x
 
 x = confirm("Texto avulso"); //alerta com mensagem
 
-x = 
+x = prompt("escreva algo: "); //alerta com caixa de texto que é atribuido a "x"
