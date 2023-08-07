@@ -3,7 +3,7 @@ let x; //declara x
 
 `O valor de x é: ${x}`; //print especial que não printa nada
 
-console.log(x); -> realmente printa algo(de preferencia uma função)
+console.log(x); //realmente printa x | x também pode ser uma função onde o return desse é aquele que será printado
 
 PROMPT
 x = confirm("Texto avulso"); //alerta BOOLEANO
