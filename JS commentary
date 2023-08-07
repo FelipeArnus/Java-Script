@@ -1,7 +1,9 @@
 DECLARAÇÃO AND STUFF
 let x; //declara x
 
-`O valor de x é: ${x}`; //print especial
+`O valor de x é: ${x}`; //print especial que não printa nada
+
+console.log(x); -> realmente printa algo(de preferencia uma função)
 
 PROMPT
 x = confirm("Texto avulso"); //alerta BOOLEANO
