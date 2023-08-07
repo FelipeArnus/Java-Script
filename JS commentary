@@ -1,7 +1,7 @@
 DECLARAÇÃO AND STUFF
 let x; //declara x
 
-`O valor de x é: ${x}` //print especial
+`O valor de x é: ${x}`; //print especial
 
 PROMPT
 x = confirm("Texto avulso"); //alerta BOOLEANO
