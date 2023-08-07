@@ -1,6 +1,7 @@
-DECLARAÇÃO
+DECLARAÇÃO AND STUFF
 let x; //declara x
 
+`O valor de x é: ${x}` //print especial
 
 PROMPT
 x = confirm("Texto avulso"); //alerta BOOLEANO
@@ -15,3 +16,5 @@ HTML CONNECTION
 x = document.getElementById("id1") //pega um valor de HTML registrado no id "id1" 
 
  msg.innerHTML = '<h2>Processadi o resultado</h2>' 
+
+
