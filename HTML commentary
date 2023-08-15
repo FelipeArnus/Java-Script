@@ -18,3 +18,16 @@
         <input type="button" class="cor1" value="" onmouseover="trocar('#993399')"> // cria botão que escreve-se coisas dentro
         
     </div>
+
+ #ATALHOS
+
+ul>li*3>a
+
+|
+V
+
+<ul>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+</ul>
