@@ -1,14 +1,10 @@
-let x -> declara numero
 
-#DOCWRITECOMMAND
-- document.write("Fala algo") -> cout
-- document.write("<br>") -> pula linha
-
-console.log("Descrição para inspeção") -> aparece apenas no inspecionar
-
-document.body.style.backgroundColor = "#AA0000"; -> acessa o documento, acessa o corpo, entra em estilo e muda a cor do plano de fundo
-
-#GETELEMENTID
-[o get element id pega informção coletada no html]
-
-let = y.getElementById("idNome") -> pega elemento do html pelo id, o atribuindo a y  <-  <input type = "text" name = "nome" id = "idGenerico">
+- Abrir terminal da pasta:
+> 
+>> node -v //diz qual é a verção do projeto
+>> $ npm create vite@latest projetoapp --template react
+>> y
+>> Escolha teu veneno:
+>>> React
+>> cd projetoapp
+>> $ npm create vite@latest projetoapp --template react
