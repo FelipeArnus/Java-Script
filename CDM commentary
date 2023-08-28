@@ -1,10 +1,14 @@
 
 - Abrir terminal da pasta:
 > 
->> node -v //diz qual é a verção do projeto
+>> $ node -v //diz qual é a verção do projeto
 >> $ npm create vite@latest projetoapp --template react
 >> y
->> Escolha teu veneno:
+>> "Escolha teu veneno: "
 >>> React
->> cd projetoapp
+>> $ cd projetoapp
 >> $ npm create vite@latest projetoapp --template react
+>> $ npm install //instala app
+>> $ npm run dev //carrega site como dev
+>> $
+
