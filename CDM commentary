@@ -1,6 +1,6 @@
 
 - Abrir terminal da pasta:
-> 
+> abrir gitbash
 >> $ node -v //diz qual é a verção do projeto
 >> $ npm create vite@latest projetoapp --template react
 >> y
