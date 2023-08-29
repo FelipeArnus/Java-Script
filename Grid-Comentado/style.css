@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 100%;
+}
+
+.container-grid{
+    justify-content: center;/*deixa o baguri no centro*/
+    margin-left: 30%;
+    margin-right: 30%;
+
+    display: grid;/*cria a grid para os itens dentro*/
+    grid-template-columns: repeat(3,1fr);
+
+    /*
+    grid-template-columns: repeat(4,20%);
+
+    grid-template-columns: 100px 100px;
+
+    grid-template-columns: repeat(4,1fr); //numero de imagens em uma lista
+    
+    */
+}
