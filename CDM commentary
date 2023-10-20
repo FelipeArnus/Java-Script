@@ -60,4 +60,6 @@ O código monitora os sensores continuamente e realiza as seguintes operações,
 - Servidor MQTT: "broker.hivemq.com"
 - Porta MQTT: 1883
 
+## Simulação:
+- https://wokwi.com/projects/378689163018348545
 
